@@ -417,6 +417,9 @@ GameObject:
   - component: {fileID: 148937602}
   - component: {fileID: 148937601}
   - component: {fileID: 148937600}
+  - component: {fileID: 148937604}
+  - component: {fileID: 148937606}
+  - component: {fileID: 148937605}
   m_Layer: 0
   m_Name: StartingCam
   m_TagString: Untagged
@@ -481,12 +484,94 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 148937599}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 700, y: 700, z: 1.33}
+  m_LocalPosition: {x: 0, y: 669.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &148937604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 148937599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f4cf3269e430540aae0f7b659670df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedH: 2
+  speedV: 2
+--- !u!114 &148937605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 148937599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0401554a0e6f9466db3c1a798d358b8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenName: 
+  playAutomatically: 1
+  delay: 0
+  type: 15
+  showIconInInspector: 1
+  keys:
+  - path
+  - speed
+  - looptype
+  - easetype
+  - x
+  indexes: 0000000000000000000000000000000001000000
+  metadatas:
+  - p
+  - 
+  - 
+  - 
+  - 
+  ints: 
+  floats:
+  - 20
+  - 0
+  bools: 
+  strings:
+  - New Path 1
+  vector3s: []
+  colors: []
+  spaces: 
+  easeTypes: 15000000
+  loopTypes: 02000000
+  gameObjects: []
+  transforms: []
+  audioClips: []
+  audioSources: []
+  vector3Arrays: []
+  transformArrays: []
+  paths: []
+--- !u!114 &148937606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 148937599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2ef3b15c32eb43108261a87963b8937, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pathName: New Path 1
+  pathColor: {r: 0, g: 1, b: 1, a: 1}
+  nodes:
+  - {x: 0, y: 150, z: 0}
+  - {x: 50, y: 150, z: 0}
+  - {x: 50, y: 150, z: 0}
+  - {x: 50, y: 50, z: 50}
+  nodeCount: 4
+  initialized: 1
+  initialName: New Path 1
 --- !u!1 &384773261
 GameObject:
   m_ObjectHideFlags: 0
@@ -504,7 +589,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &384773262
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1052,7 +1137,7 @@ Prefab:
     - target: {fileID: 198588391944103666, guid: 69b688b73c3004347b8a5556f9b4de42,
         type: 2}
       propertyPath: simulationSpeed
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 198588391944103666, guid: 69b688b73c3004347b8a5556f9b4de42,
         type: 2}
