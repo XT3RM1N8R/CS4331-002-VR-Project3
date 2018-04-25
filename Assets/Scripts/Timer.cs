@@ -16,7 +16,8 @@ public class Timer : MonoBehaviour
 		text.text = "Time Left:" + Mathf.Round(timeLeft);
 		if(timeLeft < 0)
 		{
-			Application.LoadLevel("gameOver");
+			text.text = "GAME OVER";
+			//Application.LoadLevel("gameOver");
 		}
 	}
 }
