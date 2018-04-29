@@ -16,7 +16,6 @@ public class KeepScore : MonoBehaviour
 		if (Input.GetKeyDown("5")) 
 		{
 			score = score + 100;
-			//Application.LoadLevel("gameOver");
 		}
 	}
 }
