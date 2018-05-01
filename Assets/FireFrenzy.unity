@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.60428536, g: 0.70250225, b: 0.7584448, a: 1}
+  m_IndirectSpecularColor: {r: 0.60428774, g: 0.7025154, b: 0.7584178, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -3138,13 +3138,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2040863260}
-  m_LocalRotation: {x: 0.020017527, y: 0.8186531, z: -0.028587999, w: 0.5732269}
-  m_LocalPosition: {x: -36.52, y: 7.43, z: -22.85}
+  m_LocalRotation: {x: -0.029428585, y: -0.9756396, z: 0.018759878, w: -0.21658604}
+  m_LocalPosition: {x: -57.9, y: 31.8, z: 23}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 2.8290002, y: 515.037, z: 2.8290002}
 --- !u!114 &2040863266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3187,7 +3187,7 @@ MonoBehaviour:
   - 
   ints: 
   floats:
-  - 5
+  - 4
   bools: 
   strings:
   - New Path 1
@@ -3217,8 +3217,32 @@ MonoBehaviour:
   pathName: New Path 1
   pathColor: {r: 0, g: 1, b: 1, a: 1}
   nodes:
-  - {x: -36.52, y: 20, z: -22.85}
-  - {x: -45, y: 20, z: -30}
-  nodeCount: 2
+  - {x: -54.425713, y: 33.550106, z: 3.4988632}
+  - {x: -49.593243, y: 29.317978, z: -7.913454}
+  - {x: -38.33892, y: 6.8717346, z: -11.200611}
+  - {x: -23.758556, y: 7.6152077, z: -12.520206}
+  - {x: -9.5725765, y: 12.609314, z: -10.520248}
+  - {x: -11.566301, y: 7.409153, z: -16.38242}
+  - {x: -18.22948, y: 12.245548, z: -44.940693}
+  - {x: -25.780128, y: 10.832726, z: -58.793736}
+  - {x: -37.125824, y: 8.020077, z: -58}
+  - {x: -40.891144, y: 5.850498, z: -50.90677}
+  - {x: -46.370487, y: 4.726921, z: -42.15979}
+  - {x: -55.402805, y: 4.5258255, z: -29.212185}
+  - {x: -55, y: 10, z: -28}
+  - {x: -41.523323, y: 12.772375, z: -28}
+  - {x: -35.239193, y: 6.1688232, z: -27.965591}
+  - {x: -42.212, y: 5, z: -22.764297}
+  - {x: -51.59666, y: 13.260929, z: -16.600185}
+  - {x: -61.498604, y: 25.076569, z: -15}
+  - {x: -69.558685, y: 16.257465, z: -29.389965}
+  - {x: -80.64009, y: 18.34351, z: -41.915104}
+  - {x: -82.413155, y: 8, z: -54.71739}
+  - {x: -76.66452, y: 9.604122, z: -74.32851}
+  - {x: -65.83359, y: 9.517386, z: -65.27009}
+  - {x: -54.340553, y: 11.429535, z: -68.87564}
+  - {x: -41.40496, y: 7.604248, z: -74.43317}
+  - {x: -50, y: 9, z: -96.89697}
+  nodeCount: 26
   initialized: 1
   initialName: New Path 1
