@@ -1,0 +1,4 @@
+This is a dialog test
+This is a new dialog
+There are two lines in this dialog. This is the second line
+This is in a new dialog box
