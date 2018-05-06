@@ -10,7 +10,7 @@ GameObject:
   - component: {fileID: 403168}
   - component: {fileID: 19922014}
   - component: {fileID: 19818194}
-  m_Layer: 8
+  m_Layer: 17
   m_Name: SmallFiresSparksParticleSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ GameObject:
   m_Component:
   - component: {fileID: 437396}
   - component: {fileID: 10880456}
-  m_Layer: 8
+  m_Layer: 17
   m_Name: SmallFiresLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 437804}
   - component: {fileID: 19963694}
   - component: {fileID: 19830650}
-  m_Layer: 8
+  m_Layer: 17
   m_Name: SmallFiresSmoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60,7 +60,7 @@ GameObject:
   - component: {fileID: 411110}
   - component: {fileID: 19809690}
   - component: {fileID: 19907964}
-  m_Layer: 8
+  m_Layer: 17
   m_Name: SmallFiresParticleSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ GameObject:
   m_Component:
   - component: {fileID: 429132}
   - component: {fileID: 8233310}
-  m_Layer: 8
+  m_Layer: 17
   m_Name: SmallFiresSound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,9 @@ GameObject:
   - component: {fileID: 458676}
   - component: {fileID: 11426332}
   - component: {fileID: 11437672}
-  m_Layer: 8
+  - component: {fileID: 114623378095402192}
+  - component: {fileID: 65140680422816686}
+  m_Layer: 17
   m_Name: SmallFires
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10299,3 +10301,29 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 198690}
   m_IsPrefabParent: 1
+--- !u!65 &65140680422816686
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198690}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2, y: 2, z: 2}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114623378095402192
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e9c7fdf8d8af24cabfd66fc3d032b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  endurance: 10000
+  resistance: 10
+  damage: 1000
