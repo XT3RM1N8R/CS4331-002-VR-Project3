@@ -13468,3 +13468,5 @@ MonoBehaviour:
   endurance: 10000
   resistance: 10
   damage: 1000
+  scoreManager: {fileID: 1138954317042462, guid: a3010d2176787d44b9f0baee25ff86ce,
+    type: 2}

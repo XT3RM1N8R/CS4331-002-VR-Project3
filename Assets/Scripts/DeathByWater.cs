@@ -6,10 +6,12 @@ public class DeathByWater : MonoBehaviour {
   public int endurance = 10000;
   public int resistance = 10;
   public int damage = 1000;
+
+  private GameObject scoreManager;
   private bool isAlive = true;
-	// Use this for initialization
+  // Use this for initialization
 	void Start () {
-		
+    scoreManager = GameObject.Find("Score");
 	}
 
   // Update is called once per frame
@@ -31,7 +33,9 @@ public class DeathByWater : MonoBehaviour {
 
   void OnParticleCollision(GameObject other) {
     if (other.tag == "Water") {
-      endurance -= damage / resistance;
+      int damageDealt = damage / resistance;
+      endurance -= damageDealt;
+      scoreManager.GetComponent<KeepScore>().addToScore(damageDealt);
     }
   }
 }
