@@ -13467,5 +13467,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   endurance: 10000
-  resistance: 8
+  resistance: 4
   damage: 1000
