@@ -32,7 +32,7 @@ public class DeathByWater : MonoBehaviour {
   }
 
   void OnParticleCollision(GameObject other) {
-    if (other.tag == "Water") {
+    if (other.tag == "Water" && isAlive) {
       int damageDealt = damage / resistance;
       endurance -= damageDealt;
       scoreManager.GetComponent<KeepScore>().addToScore(damageDealt);
