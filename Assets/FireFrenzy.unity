@@ -806,6 +806,11 @@ Prefab:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114253355444760662, guid: 8c51d7df2d29ba8449f85eb74c672555,
+        type: 2}
+      propertyPath: resistance
+      value: 16
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8c51d7df2d29ba8449f85eb74c672555, type: 2}
   m_IsPrefabParent: 0
@@ -958,6 +963,11 @@ Prefab:
     - target: {fileID: 19821370, guid: 062893e7007e39441aea009115b6cefa, type: 2}
       propertyPath: randomSeed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114694670845439168, guid: 062893e7007e39441aea009115b6cefa,
+        type: 2}
+      propertyPath: resistance
+      value: 17
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 062893e7007e39441aea009115b6cefa, type: 2}
@@ -4857,6 +4867,11 @@ Prefab:
       propertyPath: reverbZoneMixCustomCurve.m_RotationOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114694670845439168, guid: 062893e7007e39441aea009115b6cefa,
+        type: 2}
+      propertyPath: resistance
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 062893e7007e39441aea009115b6cefa, type: 2}
   m_IsPrefabParent: 0
@@ -5158,6 +5173,11 @@ Prefab:
     - target: {fileID: 19922014, guid: 18faec2a14493684d905501076799765, type: 2}
       propertyPath: m_SelectedEditorRenderState
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114623378095402192, guid: 18faec2a14493684d905501076799765,
+        type: 2}
+      propertyPath: resistance
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 18faec2a14493684d905501076799765, type: 2}
@@ -6245,6 +6265,11 @@ Prefab:
       propertyPath: reverbZoneMixCustomCurve.m_RotationOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114253355444760662, guid: 8c51d7df2d29ba8449f85eb74c672555,
+        type: 2}
+      propertyPath: resistance
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8c51d7df2d29ba8449f85eb74c672555, type: 2}
   m_IsPrefabParent: 0
@@ -6504,6 +6529,11 @@ Prefab:
     - target: {fileID: 19922014, guid: 18faec2a14493684d905501076799765, type: 2}
       propertyPath: m_SelectedEditorRenderState
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114623378095402192, guid: 18faec2a14493684d905501076799765,
+        type: 2}
+      propertyPath: resistance
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 18faec2a14493684d905501076799765, type: 2}
