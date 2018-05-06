@@ -77,3 +77,9 @@ Using things that we learned from Project 2, we had an easier time making Projec
 <a href="http://www.seizestudios.com/developer/rpgtalk/">RPGTalk Text Dialog</a>
 
 <a href="https://www.youtube.com/watch?v=-wJSpqrzarE">Music</a>
+
+<a href="http://www.amazingfacts4u.com/fire/">Fire Facts Source 1</a>
+
+<a href="http://discovermagazine.com/2011/oct/20-things-you-didnt-know-about-fire">Fire Facts Source 2</a>
+
+<a href="https://www.firerescue1.com/fire-products/Firefighter-Accountability/articles/1206336-9-facts-about-fire/">Fire Facts Source 3</a>
