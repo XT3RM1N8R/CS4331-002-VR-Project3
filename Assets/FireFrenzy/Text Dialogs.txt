@@ -1,4 +1,33 @@
-This is a dialog test
-This is a new dialog
-There are two lines in this dialog. This is the second line
-This is in a new dialog box
+The city is burning down!
+We need to put out these fires!
+We are the first to respond, so it's going to be a mess!
+Fire needs 3 main things to thrive: heat, oxygen, and fuel.
+We can put out the fire by reducing the temperature!
+The water takes the heat from the fire when it evaporates!
+Let's try to put out as much as we can!
+Other ways of putting out fires can include smothering them with dirt, chemicals, or some other blanketing material!
+Right now, water is the most practical method!
+Be sure to aim for the base of the fires!\nThis cools the source of the fire!
+The heat from a fire is hot enough to kill!
+Fire can scorch your lungs and melt clothes & other materials!
+Fires can burn anywhere from around 300, 1000, and well over 2000 degrees Celsius!
+While the heat from the flames can cause much damage, smoke inhalation causes more deaths!
+Don't fly too close to the flames!
+An average of over 60 firefighters die in the line of duty!
+Make sure you aren't the next one!
+Fire damage is responsible for billions of dollars in damage each year!
+Let's get these fires extinguished!
+Under normal conditions, a house fire can double in size every minute!
+It's a good thing that it's not too windy today!
+The more oxygen there is, the hotter the fires will burn!
+Additionally, the wind could pose a problem for us in the air!
+Also, the amount of oxygen can change the color of the flames!
+Lesser flames burn yellow, but the hotter flames burn a shade a blue!
+Try not to waste the water supply!\nWe need to put out as much as we can!
+Fires are responsible for thousands of deaths and injuries every year!
+The work we are doing out here is saving lives!
+It only takes 30 seconds for a fire to become uncontrollable!
+If we don't get these fires out soon, things will get out of control!
+Large fires can spread at high speeds, such as 15 miles per hour!
+Let's keep these fires from spreading anymore!
+...
