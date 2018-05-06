@@ -224,7 +224,8 @@ AudioSource:
   m_GameObject: {fileID: 162628}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 2f7719de09b97d146a196b3eb7fe9788,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 5aadc4dc07dd8c0448550fc57a19a72c, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -13466,7 +13467,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   endurance: 10000
-  resistance: 10
+  resistance: 8
   damage: 1000
-  scoreManager: {fileID: 1138954317042462, guid: a3010d2176787d44b9f0baee25ff86ce,
-    type: 2}

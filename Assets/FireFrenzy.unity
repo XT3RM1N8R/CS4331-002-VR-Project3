@@ -943,7 +943,7 @@ ParticleSystem:
   m_GameObject: {fileID: 313898243}
   serializedVersion: 5
   lengthInSec: 5
-  simulationSpeed: 0
+  simulationSpeed: 1
   looping: 1
   prewarm: 0
   playOnAwake: 1
@@ -4312,7 +4312,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -6539,7 +6539,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: afde3299bea27be49b151311ca2dee6e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.047
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
