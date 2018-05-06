@@ -35,3 +35,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EllsworthScene.unity
     guid: 811e9256c823fbc459cd957ad6e69234
+  - enabled: 1
+    path: Assets/FireFrenzy.unity
+    guid: dda1c679b458ce64eab123a637163e09
