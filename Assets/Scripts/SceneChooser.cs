@@ -24,6 +24,10 @@ public class SceneChooser : MonoBehaviour {
 		SceneManager.LoadScene ("FireFrenzy", LoadSceneMode.Single);
 	}
 
+	public void SwitchScenetoStartMenu(){
+		SceneManager.LoadScene ("StartingScene", LoadSceneMode.Single);
+	}
+
 	public void ToInstruction(){
 		objects [0].SetActive (false);
 		objects [1].SetActive (true);
