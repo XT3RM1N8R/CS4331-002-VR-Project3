@@ -8,7 +8,7 @@ Dairen Sokolov - Water Stream, Fire and Water Deletion Scripts
 Matthew Jordan - Terrain Creation, City Creation, Fire
 
 ## Important Links
- <a href="https://youtu.be/VBiHO6CoQ8Q">Video Link</a>
+ <a href="https://www.youtube.com/watch?v=pOl-wY6o30M">Video Link</a>
 
 <a href="https://unity3d.com/get-unity/download/archive">Unity Download 2017.1.3</a>
 
@@ -75,3 +75,5 @@ Using things that we learned from Project 2, we had an easier time making Projec
 <a href="https://assetstore.unity.com/packages/3d/environments/urban/japanese-matsuri-city-35619">Matsuri City Asset</a>
 
 <a href="http://www.seizestudios.com/developer/rpgtalk/">RPGTalk Text Dialog</a>
+
+<a href="https://www.youtube.com/watch?v=-wJSpqrzarE">Music</a>
