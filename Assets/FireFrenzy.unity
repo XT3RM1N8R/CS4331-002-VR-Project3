@@ -943,7 +943,7 @@ ParticleSystem:
   m_GameObject: {fileID: 313898243}
   serializedVersion: 5
   lengthInSec: 5
-  simulationSpeed: 1
+  simulationSpeed: 0
   looping: 1
   prewarm: 0
   playOnAwake: 1
@@ -4258,7 +4258,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -6541,7 +6541,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.047
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
