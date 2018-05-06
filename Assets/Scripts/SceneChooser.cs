@@ -20,6 +20,10 @@ public class SceneChooser : MonoBehaviour {
 		SceneManager.LoadScene ("Lubbock", LoadSceneMode.Single);
 	}
 
+	public void SwitchScenetoFireFrenzy(){
+		SceneManager.LoadScene ("FireFrenzy", LoadSceneMode.Single);
+	}
+
 	public void ToInstruction(){
 		objects [0].SetActive (false);
 		objects [1].SetActive (true);
