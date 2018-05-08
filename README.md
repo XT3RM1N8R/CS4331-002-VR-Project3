@@ -74,6 +74,8 @@ Using things that we learned from Project 2, we had an easier time making Projec
 
 <a href="https://assetstore.unity.com/packages/3d/environments/urban/japanese-matsuri-city-35619">Matsuri City Asset</a>
 
+<a href="https://assetstore.unity.com/packages/3d/vehicles/land/m-lowpoly-cars-83703">Emergency Vehicle Assets</a>
+
 <a href="http://www.seizestudios.com/developer/rpgtalk/">RPGTalk Text Dialog</a>
 
 <a href="https://www.youtube.com/watch?v=-wJSpqrzarE">Music</a>
