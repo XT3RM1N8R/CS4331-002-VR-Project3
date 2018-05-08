@@ -1,3 +1,4 @@
+Use the SPACE key to advance through the dialog prompts!
 The city is burning down!
 We need to put out these fires!
 We are the first to respond, so it's going to be a mess!
